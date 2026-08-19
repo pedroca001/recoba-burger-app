@@ -11,7 +11,8 @@
 - Codigo fonte: este repositorio em `<CODIGO_ROOT>\recoba-burger-app`.
 - Catalogo importado: `src/data/menu.json` e imagens locais em `public/products/`.
 - Origem auditavel do catalogo: `scripts/source/` e `scripts/build-menu.mjs`.
-- Deploy: GitHub `pedroca001/recoba-burger-app` conectado a Netlify.
+- Deploy: GitHub privado `pedroca001/recoba-burger-app` conectado por webhook a Netlify `recoba-burger`.
+- URL de producao: `https://recoba-burger.netlify.app`.
 
 ## Local Contracts
 

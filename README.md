@@ -2,6 +2,9 @@
 
 Cardapio digital e checkout da Recoba Burger Santana, desenvolvido em React, TypeScript e Netlify Functions.
 
+- Producao: https://recoba-burger.netlify.app
+- GitHub: https://github.com/pedroca001/recoba-burger-app
+
 ## O que esta pronto
 
 - catalogo com 10 categorias, 91 produtos, adicionais e 89 fotos armazenadas no proprio app;
@@ -56,7 +59,7 @@ Opcionais:
 3. Gere um token aleatorio longo para `STONE_WEBHOOK_TOKEN`.
 4. No Dash Pagar.me, cadastre o webhook:
 
-   `https://SEU_DOMINIO/.netlify/functions/stone-webhook?token=SEU_TOKEN`
+   `https://recoba-burger.netlify.app/.netlify/functions/stone-webhook?token=SEU_TOKEN`
 
 5. Assine ao menos eventos de pedido e cobranca, como `order.paid`, `order.payment_failed`, `charge.paid` e `charge.payment_failed`.
 6. Autorize o dominio final para tokenizacao de cartao, caso essa opcao apareca no Dash.
