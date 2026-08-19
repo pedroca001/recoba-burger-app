@@ -1,0 +1,31 @@
+{
+  "name": "recoba-burger-app",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc -b && vite build",
+    "check": "tsc -b --pretty false",
+    "preview": "vite preview",
+    "test": "vitest run",
+    "menu:build": "node scripts/build-menu.mjs",
+    "menu:verify": "node scripts/verify-menu.mjs"
+  },
+  "dependencies": {
+    "@netlify/blobs": "^11.0.1",
+    "lucide-react": "^1.32.0",
+    "react": "^19.2.8",
+    "react-dom": "^19.2.8"
+  },
+  "devDependencies": {
+    "@netlify/functions": "^6.0.0",
+    "@types/node": "^26.2.0",
+    "@types/react": "^19.2.18",
+    "@types/react-dom": "^19.2.4",
+    "@vitejs/plugin-react": "^6.0.5",
+    "typescript": "^7.0.2",
+    "vite": "^8.2.1",
+    "vitest": "^4.0.0"
+  }
+}

@@ -1,0 +1,881 @@
+[
+  {
+    "name": "os Mais Vendidos do Recoba",
+    "categoryIndex": 0,
+    "products": [
+      {
+        "id": "354",
+        "productIndex": 0,
+        "name": "Texas - 2 Unidades Por 54,90.",
+        "description": "150g de carne bovina Angus de puríssima qualidade, queijo mozzarella fatiado, molho caseiro no pão franceszinho.",
+        "priceText": "R$ 54,90",
+        "imageUrl": "https://cdn.vucasolution.com.br/upload/w_300/https://gryyplgyeyqb.compat.objectstorage.sa-saopaulo-1.oraclecloud.com/vuca-cdn/recobaburger/arqs/produtos/cx06vif708jhzr0ifnex.jpg",
+        "detailUrl": "https://www.vucafood.com.br/recobaburger/1487/cardapio-digital/354"
+      },
+      {
+        "id": "2",
+        "productIndex": 1,
+        "name": "Cartagena (2 Burgers + Bacon e Barbecue)",
+        "description": "2 burgers 150g de carne bovina Angus de puríssima qualidade, queijo mozzarella fatiado em dobro, cebola caramelizada, fatias generosas de bacon, molho barbecue, maionese temperada e pão brioche.",
+        "priceText": "R$ 53,90",
+        "imageUrl": "https://cdn.vucasolution.com.br/upload/w_300/https://gryyplgyeyqb.compat.objectstorage.sa-saopaulo-1.oraclecloud.com/vuca-cdn/recobaburger/arqs/produtos/g4xiqqraxatrqohu1cfg.jpg",
+        "detailUrl": "https://www.vucafood.com.br/recobaburger/1487/cardapio-digital/2"
+      },
+      {
+        "id": "71",
+        "productIndex": 2,
+        "name": "Ninho com Nutella Shake",
+        "description": "Milk Shake de Ninho em pó e Nutella, com base americana 400ml.",
+        "priceText": "R$ 29,90",
+        "imageUrl": "https://cdn.vucasolution.com.br/upload/w_300/https://gryyplgyeyqb.compat.objectstorage.sa-saopaulo-1.oraclecloud.com/vuca-cdn/recobaburger/arqs/produtos/kbhtr28ijhqsn0ml3pcb.jpg",
+        "detailUrl": "https://www.vucafood.com.br/recobaburger/1487/cardapio-digital/71"
+      },
+      {
+        "id": "44",
+        "productIndex": 3,
+        "name": "Bahamas",
+        "description": "150g de carne bovina Angus de puríssima qualidade, queijo mozzarella fatiado, uma Lapada De Catupiry empanado (aprox 200gr.), rúcula, cebola roxa e maionese verde no pão australiano.",
+        "priceText": "R$ 49,90",
+        "imageUrl": "https://cdn.vucasolution.com.br/upload/w_300/https://gryyplgyeyqb.compat.objectstorage.sa-saopaulo-1.oraclecloud.com/vuca-cdn/recobaburger/arqs/produtos/y4rglxa1wyisiktoutpy.jpg",
+        "detailUrl": "https://www.vucafood.com.br/recobaburger/1487/cardapio-digital/44"
+      },
+      {
+        "id": "58",
+        "productIndex": 4,
+        "name": "Batata Supreme",
+        "description": "Batata extra crunch, com uma quantidade generosa de cream cheese e pulled pork! Acompanha uma maionese da casa á sua escolha. (Pulled Pork - Lombo suíno defumado) Média 450gr a 500gr.",
+        "priceText": "R$ 47,90",
+        "imageUrl": "https://cdn.vucasolution.com.br/upload/w_300/https://gryyplgyeyqb.compat.objectstorage.sa-saopaulo-1.oraclecloud.com/vuca-cdn/recobaburger/arqs/produtos/hoayqn0fzrug04cakwqc.jpg",
+        "detailUrl": "https://www.vucafood.com.br/recobaburger/1487/cardapio-digital/58"
+      }
+    ]
+  },
+  {
+    "name": "Burgers - Linha World",
+    "categoryIndex": 1,
+    "products": [
+      {
+        "id": "40",
+        "productIndex": 0,
+        "name": "Brasa",
+        "description": "150g de carne bovina Angus de puríssima qualidade, queijo mozzarella fatiado, pulled pork, pickles, molho de pickles, maionese defumada, cebolinha no pão francêszinho. (Pulled Pork - Lombo suíno defumado)",
+        "priceText": "R$ 45,90",
+        "imageUrl": "https://cdn.vucasolution.com.br/upload/w_300/https://gryyplgyeyqb.compat.objectstorage.sa-saopaulo-1.oraclecloud.com/vuca-cdn/recobaburger/arqs/produtos/r6jzqpp7fv5fj31v2qrz.jpg",
+        "detailUrl": "https://www.vucafood.com.br/recobaburger/1487/cardapio-digital/40"
+      },
+      {
+        "id": "41",
+        "productIndex": 1,
+        "name": "México",
+        "description": "150g de carne bovina Angus de puríssima qualidade, queijo mozzarella fatiado, cheddar melt, pimenta sriracha e muuuuuuito Doritos no pão francêszinho.",
+        "priceText": "R$ 45,90",
+        "imageUrl": "https://cdn.vucasolution.com.br/upload/w_300/https://gryyplgyeyqb.compat.objectstorage.sa-saopaulo-1.oraclecloud.com/vuca-cdn/recobaburger/arqs/produtos/ldrkp4fznmy3shhxmuof.jpg",
+        "detailUrl": "https://www.vucafood.com.br/recobaburger/1487/cardapio-digital/41"
+      },
+      {
+        "id": "42",
+        "productIndex": 2,
+        "name": "Qatar",
+        "description": "150g burger de Nutella, cream cheese, morango, maisssss Nutella no pão australiano.",
+        "priceText": "R$ 47,90",
+        "imageUrl": "https://cdn.vucasolution.com.br/upload/w_300/https://gryyplgyeyqb.compat.objectstorage.sa-saopaulo-1.oraclecloud.com/vuca-cdn/recobaburger/arqs/produtos/sb5oxglia5ja7cfcrhoz.jpg",
+        "detailUrl": "https://www.vucafood.com.br/recobaburger/1487/cardapio-digital/42"
+      },
+      {
+        "id": "43",
+        "productIndex": 3,
+        "name": "França",
+        "description": "150g de carne bovina Angus de puríssima qualidade, queijo mozzarella fatiado, queijo coalho trançado com bacon, tomate seco, maionese defumada no pão francêszinho.",
+        "priceText": "R$ 46,90",
+        "imageUrl": "https://cdn.vucasolution.com.br/upload/w_300/https://gryyplgyeyqb.compat.objectstorage.sa-saopaulo-1.oraclecloud.com/vuca-cdn/recobaburger/arqs/produtos/rnqzfollzgcwhlxm3zwg.jpg",
+        "detailUrl": "https://www.vucafood.com.br/recobaburger/1487/cardapio-digital/43"
+      }
+    ]
+  },
+  {
+    "name": "Burgers - Linha City",
+    "categoryIndex": 2,
+    "products": [
+      {
+        "id": "356",
+        "productIndex": 0,
+        "name": "Cardiff",
+        "description": "150g de carne bovina Angus de puríssima qualidade, uma lapada de mozzarella empanada, com molho de tomate caseiro feito na casa no pão brioche mais macio do Mundo.",
+        "priceText": "R$ 43,90",
+        "imageUrl": "https://cdn.vucasolution.com.br/upload/w_300/https://gryyplgyeyqb.compat.objectstorage.sa-saopaulo-1.oraclecloud.com/vuca-cdn/recobaburger/arqs/produtos/rkib5fkjj71jzviu77o1.jpg",
+        "detailUrl": "https://www.vucafood.com.br/recobaburger/1487/cardapio-digital/356"
+      },
+      {
+        "id": "357",
+        "productIndex": 1,
+        "name": "Hofn",
+        "description": "2 Smash 50gr Angus de puríssima qualidade, duplo de queijo mozzarella, bacon em generosas fatias, alface americana e tomate fresquinho com nosso molho caseiro num pão franceszinho crocantissimo.",
+        "priceText": "R$ 36,90",
+        "imageUrl": "https://cdn.vucasolution.com.br/upload/w_300/https://gryyplgyeyqb.compat.objectstorage.sa-saopaulo-1.oraclecloud.com/vuca-cdn/recobaburger/arqs/produtos/cgtbutjpm29ns57rfwxh.jpg",
+        "detailUrl": "https://www.vucafood.com.br/recobaburger/1487/cardapio-digital/357"
+      },
+      {
+        "id": "359",
+        "productIndex": 2,
+        "name": "Yokohama",
+        "description": "150g de carne bovina Angus de puríssima qualidade, creme de champignon, com cebola croc croc feita na casa, queijo mozzarella no pão brioche mais macio do Mundo.",
+        "priceText": "R$ 39,90",
+        "imageUrl": "https://cdn.vucasolution.com.br/upload/w_300/https://gryyplgyeyqb.compat.objectstorage.sa-saopaulo-1.oraclecloud.com/vuca-cdn/recobaburger/arqs/produtos/jcld9wblwddctigw198r.jpg",
+        "detailUrl": "https://www.vucafood.com.br/recobaburger/1487/cardapio-digital/359"
+      },
+      {
+        "id": "360",
+        "productIndex": 3,
+        "name": "Manhattan",
+        "description": "Sobrecoxa desossada e defumada na lenha de goiabeira, queijo mozzarella, molho caseiro sensacional, rúcula fresquinha e cebola roxa, em um pão franceszinho crocante.",
+        "priceText": "R$ 39,90",
+        "imageUrl": "https://cdn.vucasolution.com.br/upload/w_300/https://gryyplgyeyqb.compat.objectstorage.sa-saopaulo-1.oraclecloud.com/vuca-cdn/recobaburger/arqs/produtos/ukqq3oyjxobwvlxpnohd.jpg",
+        "detailUrl": "https://www.vucafood.com.br/recobaburger/1487/cardapio-digital/360"
+      },
+      {
+        "id": "1",
+        "productIndex": 4,
+        "name": "Cairo Burger (Catupiry + Bacon)",
+        "description": "150g de carne bovina Angus de puríssima qualidade, queijo mozzarella fatiado, Catupiry, bacon em fatias generosas, molho barbecue, alface americana, maionese verde e pão brioche.",
+        "priceText": "R$ 40,90",
+        "imageUrl": "https://cdn.vucasolution.com.br/upload/w_300/https://gryyplgyeyqb.compat.objectstorage.sa-saopaulo-1.oraclecloud.com/vuca-cdn/recobaburger/arqs/produtos/oeozminnnfuctjektlgl.jpg",
+        "detailUrl": "https://www.vucafood.com.br/recobaburger/1487/cardapio-digital/1"
+      },
+      {
+        "id": "26",
+        "productIndex": 5,
+        "name": "Cádiz Burger (150G Angus + Cheddar)",
+        "description": "150g de carne bovina Angus de puríssima qualidade, cheddar melt, cebola caramelizada, maionese temperada no pão australiano.",
+        "priceText": "R$ 40,90",
+        "imageUrl": "https://cdn.vucasolution.com.br/upload/w_300/https://gryyplgyeyqb.compat.objectstorage.sa-saopaulo-1.oraclecloud.com/vuca-cdn/recobaburger/arqs/produtos/p1fap0v0x0vknhrfongq.jpg",
+        "detailUrl": "https://www.vucafood.com.br/recobaburger/1487/cardapio-digital/26"
+      },
+      {
+        "id": "6",
+        "productIndex": 6,
+        "name": "Smashinho",
+        "description": "90g de carne bovina Angus de puríssima qualidade, queijo mozzarella fatiado, Maionese verde, Cebola Roxa, Pickles, catchup e mostarda.",
+        "priceText": "R$ 29,90",
+        "imageUrl": "https://cdn.vucasolution.com.br/upload/w_300/https://gryyplgyeyqb.compat.objectstorage.sa-saopaulo-1.oraclecloud.com/vuca-cdn/recobaburger/arqs/produtos/t9unxz8unukonvmawe9q.jpg",
+        "detailUrl": "https://www.vucafood.com.br/recobaburger/1487/cardapio-digital/6"
+      },
+      {
+        "id": "3",
+        "productIndex": 7,
+        "name": "Havana Burger (Cebola Enrolada C/ Bacon + Cheddar)",
+        "description": "150g de carne bovina Angus de puríssima qualidade, queijo mozzarella fatiado, cheddar melt, cebola enrolada com bacon, bacon picado, casquinha de parmesão, maionese temperada no pão brioche.",
+        "priceText": "R$ 46,90",
+        "imageUrl": "https://cdn.vucasolution.com.br/upload/w_300/https://gryyplgyeyqb.compat.objectstorage.sa-saopaulo-1.oraclecloud.com/vuca-cdn/recobaburger/arqs/produtos/ig9hpxsy0laejddjiuzm.jpg",
+        "detailUrl": "https://www.vucafood.com.br/recobaburger/1487/cardapio-digital/3"
+      },
+      {
+        "id": "4",
+        "productIndex": 8,
+        "name": "Denver Burger",
+        "description": "150g de carne bovina Angus de puríssima qualidade, queijo mozzarella fatiado, cebola caramelizada, maionese temperada e pão brioche.",
+        "priceText": "R$ 35,90",
+        "imageUrl": "https://cdn.vucasolution.com.br/upload/w_300/https://gryyplgyeyqb.compat.objectstorage.sa-saopaulo-1.oraclecloud.com/vuca-cdn/recobaburger/arqs/produtos/ztucu0lfhjqytct0kzd5.jpg",
+        "detailUrl": "https://www.vucafood.com.br/recobaburger/1487/cardapio-digital/4"
+      },
+      {
+        "id": "27",
+        "productIndex": 9,
+        "name": "Cali Burger (Calabresa + Vinagrete)",
+        "description": "150g burger de calabresa, queijo mozzarella fatiado, vinagrete, Catupiry, maionese verde no pão brioche.",
+        "priceText": "R$ 37,90",
+        "imageUrl": "https://cdn.vucasolution.com.br/upload/w_300/https://gryyplgyeyqb.compat.objectstorage.sa-saopaulo-1.oraclecloud.com/vuca-cdn/recobaburger/arqs/produtos/hhjzilxe9bqaybfrwwfh.jpg",
+        "detailUrl": "https://www.vucafood.com.br/recobaburger/1487/cardapio-digital/27"
+      },
+      {
+        "id": "28",
+        "productIndex": 10,
+        "name": "La Plata Burger (Bacon & Cebola Caramelizada)",
+        "description": "150g de carne bovina Angus de puríssima qualidade, queijo mozzarella fatiado, cebola caramelizada, generosas fatias de bacon, molho barbecue, maionese temperada no pão brioche.",
+        "priceText": "R$ 42,70",
+        "imageUrl": "https://cdn.vucasolution.com.br/upload/w_300/https://gryyplgyeyqb.compat.objectstorage.sa-saopaulo-1.oraclecloud.com/vuca-cdn/recobaburger/arqs/produtos/frwfidoyp3aqy5jp29ck.jpg",
+        "detailUrl": "https://www.vucafood.com.br/recobaburger/1487/cardapio-digital/28"
+      },
+      {
+        "id": "29",
+        "productIndex": 11,
+        "name": "Macau Burger (Onion Rings - Catupiry e Bacon)",
+        "description": "150g de carne bovina Angus de puríssima qualidade, queijo mozzarella fatiado, Catupiry, bacon fatiado em fatias generosas, onion rings, molho barbecue, maionese temperada no pão brioche.",
+        "priceText": "R$ 39,90",
+        "imageUrl": "https://cdn.vucasolution.com.br/upload/w_300/https://gryyplgyeyqb.compat.objectstorage.sa-saopaulo-1.oraclecloud.com/vuca-cdn/recobaburger/arqs/produtos/pwshote2bq6jrri6bnfy.jpg",
+        "detailUrl": "https://www.vucafood.com.br/recobaburger/1487/cardapio-digital/29"
+      },
+      {
+        "id": "30",
+        "productIndex": 12,
+        "name": "Montreal Burger (Creme de Alho Poró e Gorgonzola)",
+        "description": "150g de carne bovina Angus de puríssima qualidade, gorgonzola, creme de alho poró, tomate seco, alface americana, maionese verde no pão brioche.",
+        "priceText": "R$ 43,90",
+        "imageUrl": "https://cdn.vucasolution.com.br/upload/w_300/https://gryyplgyeyqb.compat.objectstorage.sa-saopaulo-1.oraclecloud.com/vuca-cdn/recobaburger/arqs/produtos/b3wqgr80xucesfadyvnu.jpg",
+        "detailUrl": "https://www.vucafood.com.br/recobaburger/1487/cardapio-digital/30"
+      },
+      {
+        "id": "31",
+        "productIndex": 13,
+        "name": "Nairobi Burger (Rúcula + Onion Rings e Bacon)",
+        "description": "150g de carne bovina Angus de puríssima qualidade, queijo mozzarella fatiado, rúcula, cheddar melt, onion rings, generosas fatias de bacon, casquinha de parmesão, maionese temperada no pão australiano.",
+        "priceText": "R$ 43,90",
+        "imageUrl": "https://cdn.vucasolution.com.br/upload/w_300/https://gryyplgyeyqb.compat.objectstorage.sa-saopaulo-1.oraclecloud.com/vuca-cdn/recobaburger/arqs/produtos/xuaujpgpynehfaew7xg4.jpg",
+        "detailUrl": "https://www.vucafood.com.br/recobaburger/1487/cardapio-digital/31"
+      },
+      {
+        "id": "34",
+        "productIndex": 14,
+        "name": "Smash",
+        "description": "2 Burgers 90gr, queijo mozzarella fatiado, Maionese verde, Cebola Roxa, Pickles, catchup e mostarda.",
+        "priceText": "R$ 35,90",
+        "imageUrl": "https://cdn.vucasolution.com.br/upload/w_300/https://gryyplgyeyqb.compat.objectstorage.sa-saopaulo-1.oraclecloud.com/vuca-cdn/recobaburger/arqs/produtos/wn1ik8yynnix3itwyjmu.jpg",
+        "detailUrl": "https://www.vucafood.com.br/recobaburger/1487/cardapio-digital/34"
+      },
+      {
+        "id": "32",
+        "productIndex": 15,
+        "name": "Sampa Burger (Angus + Salada)",
+        "description": "Burger Angus 150gr, queijo mozzarella fatiado, cebola roxa, tomate, alface americana, maionese verde no pão brioche.",
+        "priceText": "R$ 37,90",
+        "imageUrl": "https://cdn.vucasolution.com.br/upload/w_300/https://gryyplgyeyqb.compat.objectstorage.sa-saopaulo-1.oraclecloud.com/vuca-cdn/recobaburger/arqs/produtos/cbitkvd6ezgqc7ghj2n4.jpg",
+        "detailUrl": "https://www.vucafood.com.br/recobaburger/1487/cardapio-digital/32"
+      },
+      {
+        "id": "33",
+        "productIndex": 16,
+        "name": "Sinaloua Burger (2 Burgers Angus + Provolone e Catupiry)",
+        "description": "2 burgers 150g de carne bovina Angus de puríssima qualidade, rúcula, queijo mozzarella fatiado, provolone, Catupiry, orégano, casquinha de parmesão, maionese temperada no pão brioche.",
+        "priceText": "R$ 53,90",
+        "imageUrl": "https://cdn.vucasolution.com.br/upload/w_300/https://gryyplgyeyqb.compat.objectstorage.sa-saopaulo-1.oraclecloud.com/vuca-cdn/recobaburger/arqs/produtos/bbnevkmlfqlban6ksdar.jpg",
+        "detailUrl": "https://www.vucafood.com.br/recobaburger/1487/cardapio-digital/33"
+      },
+      {
+        "id": "35",
+        "productIndex": 17,
+        "name": "Smashão",
+        "description": "3 Burgers 90gr, queijo mozzarella fatiado, Maionese verde, Cebola Roxa, Pickles, catchup e mostarda.",
+        "priceText": "R$ 41,90",
+        "imageUrl": "https://cdn.vucasolution.com.br/upload/w_300/https://gryyplgyeyqb.compat.objectstorage.sa-saopaulo-1.oraclecloud.com/vuca-cdn/recobaburger/arqs/produtos/njgxtcs5xvxgivi8espk.jpg",
+        "detailUrl": "https://www.vucafood.com.br/recobaburger/1487/cardapio-digital/35"
+      },
+      {
+        "id": "36",
+        "productIndex": 18,
+        "name": "Toluca Burger (Pimenta Jalapeño + Alho Frito e Bacon)",
+        "description": "150g de carne bovina Angus de puríssima qualidade, queijo mozzarella fatiado, fatias generosas de bacon, pimenta jalapeño, catupiry, alho frito, maionese temperada no pão australiano.",
+        "priceText": "R$ 44,90",
+        "imageUrl": "https://cdn.vucasolution.com.br/upload/w_300/https://gryyplgyeyqb.compat.objectstorage.sa-saopaulo-1.oraclecloud.com/vuca-cdn/recobaburger/arqs/produtos/gtrwhemk0potjjavsgag.jpg",
+        "detailUrl": "https://www.vucafood.com.br/recobaburger/1487/cardapio-digital/36"
+      },
+      {
+        "id": "37",
+        "productIndex": 19,
+        "name": "Combo Kids",
+        "description": "90g de carne bovina Angus de puríssima qualidade, queijo mozzarella fatiado, maionese da casa no pão de brioche + porção de batata. *Obs: Não Substituimos E Nem Trocamos A Batata*",
+        "priceText": "R$ 26,90",
+        "imageUrl": "https://cdn.vucasolution.com.br/upload/w_300/https://gryyplgyeyqb.compat.objectstorage.sa-saopaulo-1.oraclecloud.com/vuca-cdn/recobaburger/arqs/produtos/mnw13bfn4zpbajavdw3t.jpg",
+        "detailUrl": "https://www.vucafood.com.br/recobaburger/1487/cardapio-digital/37"
+      },
+      {
+        "id": "38",
+        "productIndex": 20,
+        "name": "Verona Burger (Casquinha de Parmesão e Peperone)",
+        "description": "150g de carne bovina Angus de puríssima qualidade, queijo mozzarella fatiado, casquinha de parmesão, molho de tomate fresco com pepperoni, rúcula, maionese temperada no pão de brioche.",
+        "priceText": "R$ 41,90",
+        "imageUrl": "https://cdn.vucasolution.com.br/upload/w_300/https://gryyplgyeyqb.compat.objectstorage.sa-saopaulo-1.oraclecloud.com/vuca-cdn/recobaburger/arqs/produtos/bbtruzodo7su3gfn8san.jpg",
+        "detailUrl": "https://www.vucafood.com.br/recobaburger/1487/cardapio-digital/38"
+      },
+      {
+        "id": "39",
+        "productIndex": 21,
+        "name": "Medellín Frango Empanado (Bacon e Molho Especial)",
+        "description": "150g burger de frango empanado, Catupiry, generosas fatias de bacon, molho barbecue, alface americana, maionese verde e pão brioche.",
+        "priceText": "R$ 39,90",
+        "imageUrl": "https://cdn.vucasolution.com.br/upload/w_300/https://gryyplgyeyqb.compat.objectstorage.sa-saopaulo-1.oraclecloud.com/vuca-cdn/recobaburger/arqs/produtos/zbgjp6qtvtvrqly6g5wr.jpg",
+        "detailUrl": "https://www.vucafood.com.br/recobaburger/1487/cardapio-digital/39"
+      }
+    ]
+  },
+  {
+    "name": "Linha Veggie",
+    "categoryIndex": 3,
+    "products": [
+      {
+        "id": "349",
+        "productIndex": 0,
+        "name": "Burger de Grao de Bico",
+        "description": "",
+        "priceText": "R$ 0,00",
+        "imageUrl": null,
+        "detailUrl": "https://www.vucafood.com.br/recobaburger/1487/cardapio-digital/349"
+      },
+      {
+        "id": "348",
+        "productIndex": 1,
+        "name": "Burger de Lentilha",
+        "description": "",
+        "priceText": "R$ 0,00",
+        "imageUrl": null,
+        "detailUrl": "https://www.vucafood.com.br/recobaburger/1487/cardapio-digital/348"
+      },
+      {
+        "id": "45",
+        "productIndex": 2,
+        "name": "Cambridge",
+        "description": "Burger à sua escolha de 110g, cheddar melt, rúcula e maionese defumada no pão brioche.",
+        "priceText": "R$ 37,90",
+        "imageUrl": "https://cdn.vucasolution.com.br/upload/w_300/https://gryyplgyeyqb.compat.objectstorage.sa-saopaulo-1.oraclecloud.com/vuca-cdn/recobaburger/arqs/produtos/dcvsysawsp6bxqma584p.jpg",
+        "detailUrl": "https://www.vucafood.com.br/recobaburger/1487/cardapio-digital/45"
+      },
+      {
+        "id": "46",
+        "productIndex": 3,
+        "name": "Viena",
+        "description": "Burger à sua escolha de 110g, alface, tomate, maionese defumada no australiano.",
+        "priceText": "R$ 37,90",
+        "imageUrl": "https://cdn.vucasolution.com.br/upload/w_300/https://gryyplgyeyqb.compat.objectstorage.sa-saopaulo-1.oraclecloud.com/vuca-cdn/recobaburger/arqs/produtos/ldeswpbmejl6kalwqis7.jpg",
+        "detailUrl": "https://www.vucafood.com.br/recobaburger/1487/cardapio-digital/46"
+      }
+    ]
+  },
+  {
+    "name": "Acompanhamentos",
+    "categoryIndex": 4,
+    "products": [
+      {
+        "id": "364",
+        "productIndex": 0,
+        "name": "Coxinha de Frango sem Massa",
+        "description": "",
+        "priceText": "R$ 35,90",
+        "imageUrl": "https://cdn.vucasolution.com.br/upload/w_300/https://gryyplgyeyqb.compat.objectstorage.sa-saopaulo-1.oraclecloud.com/vuca-cdn/recobaburger/arqs/produtos/ahnplbibosmyo0fmxkkg.png",
+        "detailUrl": "https://www.vucafood.com.br/recobaburger/1487/cardapio-digital/364"
+      },
+      {
+        "id": "365",
+        "productIndex": 1,
+        "name": "Bolinho de Carne Seca sem Massa",
+        "description": "",
+        "priceText": "R$ 35,90",
+        "imageUrl": "https://cdn.vucasolution.com.br/upload/w_300/https://gryyplgyeyqb.compat.objectstorage.sa-saopaulo-1.oraclecloud.com/vuca-cdn/recobaburger/arqs/produtos/xuv0mlmhzkme9isftdap.png",
+        "detailUrl": "https://www.vucafood.com.br/recobaburger/1487/cardapio-digital/365"
+      },
+      {
+        "id": "47",
+        "productIndex": 2,
+        "name": "Batata com Cheddar e Bacon",
+        "description": "Batata extra crocante, temperada com especiarias porção 400gr, com extra porção de maionese da casa",
+        "priceText": "R$ 42,90",
+        "imageUrl": "https://cdn.vucasolution.com.br/upload/w_300/https://gryyplgyeyqb.compat.objectstorage.sa-saopaulo-1.oraclecloud.com/vuca-cdn/recobaburger/arqs/produtos/h6lhssyyxubr0iecarnj.jpg",
+        "detailUrl": "https://www.vucafood.com.br/recobaburger/1487/cardapio-digital/47"
+      },
+      {
+        "id": "48",
+        "productIndex": 3,
+        "name": "Batata Crinckle - 400Gr",
+        "description": "Batata extra crocante, temperada com especiarias porção 400gr, com extra porção de maionese da casa.",
+        "priceText": "R$ 29,90",
+        "imageUrl": "https://cdn.vucasolution.com.br/upload/w_300/https://gryyplgyeyqb.compat.objectstorage.sa-saopaulo-1.oraclecloud.com/vuca-cdn/recobaburger/arqs/produtos/onvqrbbffxctdbb7yvhn.jpg",
+        "detailUrl": "https://www.vucafood.com.br/recobaburger/1487/cardapio-digital/48"
+      },
+      {
+        "id": "49",
+        "productIndex": 4,
+        "name": "Batata Crinckle - Individual",
+        "description": "160gr.",
+        "priceText": "R$ 12,90",
+        "imageUrl": "https://cdn.vucasolution.com.br/upload/w_300/https://gryyplgyeyqb.compat.objectstorage.sa-saopaulo-1.oraclecloud.com/vuca-cdn/recobaburger/arqs/produtos/y30azp5qtm406869wtqb.jpg",
+        "detailUrl": "https://www.vucafood.com.br/recobaburger/1487/cardapio-digital/49"
+      },
+      {
+        "id": "50",
+        "productIndex": 5,
+        "name": "Batata Rústica - 150Gr",
+        "description": "Batata rústica temperada com sal e pimenta do reino, porção 150gr.",
+        "priceText": "R$ 14,90",
+        "imageUrl": "https://cdn.vucasolution.com.br/upload/w_300/https://gryyplgyeyqb.compat.objectstorage.sa-saopaulo-1.oraclecloud.com/vuca-cdn/recobaburger/arqs/produtos/adzzczegvec2vqbjqezi.jpg",
+        "detailUrl": "https://www.vucafood.com.br/recobaburger/1487/cardapio-digital/50"
+      },
+      {
+        "id": "51",
+        "productIndex": 6,
+        "name": "Batata 2 Queijos- 450Gr",
+        "description": "Batata crinckle, temperada com sal e pimenta do reino, com parmesão, Catupiry e cebolinha. Porção de 450g com extra porção de maionese da casa.",
+        "priceText": "R$ 39,90",
+        "imageUrl": "https://cdn.vucasolution.com.br/upload/w_300/https://gryyplgyeyqb.compat.objectstorage.sa-saopaulo-1.oraclecloud.com/vuca-cdn/recobaburger/arqs/produtos/bg2ebtt9fxbwsw5997lu.jpg",
+        "detailUrl": "https://www.vucafood.com.br/recobaburger/1487/cardapio-digital/51"
+      },
+      {
+        "id": "52",
+        "productIndex": 7,
+        "name": "Isca de Frango- 400Gr",
+        "description": "Pedaços de frango crocantes 400gr, com extra porção de maionese da casa.",
+        "priceText": "R$ 28,90",
+        "imageUrl": "https://cdn.vucasolution.com.br/upload/w_300/https://gryyplgyeyqb.compat.objectstorage.sa-saopaulo-1.oraclecloud.com/vuca-cdn/recobaburger/arqs/produtos/bmz2t3p36vabo9eeakbv.jpg",
+        "detailUrl": "https://www.vucafood.com.br/recobaburger/1487/cardapio-digital/52"
+      },
+      {
+        "id": "53",
+        "productIndex": 8,
+        "name": "Isca de Frango com Cheddar e Bacon - 400Gr",
+        "description": "Isca de frango empanado com cheddar e bacon 400g com extra porção de maionese da casa.",
+        "priceText": "R$ 36,90",
+        "imageUrl": "https://cdn.vucasolution.com.br/upload/w_300/https://gryyplgyeyqb.compat.objectstorage.sa-saopaulo-1.oraclecloud.com/vuca-cdn/recobaburger/arqs/produtos/zgqtqkz56cdz5j6oy0ay.jpg",
+        "detailUrl": "https://www.vucafood.com.br/recobaburger/1487/cardapio-digital/53"
+      },
+      {
+        "id": "54",
+        "productIndex": 9,
+        "name": "Nuggets da Casa",
+        "description": "8 unidades, dessa 8º maravilha do Mundo. Crocante, sequinho e saborosissímo. Acompanha 1 molho á sua escolha.",
+        "priceText": "R$ 23,90",
+        "imageUrl": "https://cdn.vucasolution.com.br/upload/w_300/https://gryyplgyeyqb.compat.objectstorage.sa-saopaulo-1.oraclecloud.com/vuca-cdn/recobaburger/arqs/produtos/x2yhbrg2cmlt1gokp3nn.jpg",
+        "detailUrl": "https://www.vucafood.com.br/recobaburger/1487/cardapio-digital/54"
+      },
+      {
+        "id": "55",
+        "productIndex": 10,
+        "name": "Onion Rings",
+        "description": "Anéis de cebola empanada temperada com especiarias, com extra porção de maionese temperada.",
+        "priceText": "R$ 24,90",
+        "imageUrl": "https://cdn.vucasolution.com.br/upload/w_300/https://gryyplgyeyqb.compat.objectstorage.sa-saopaulo-1.oraclecloud.com/vuca-cdn/recobaburger/arqs/produtos/oadpx0iyarriwjkzxoab.jpg",
+        "detailUrl": "https://www.vucafood.com.br/recobaburger/1487/cardapio-digital/55"
+      },
+      {
+        "id": "56",
+        "productIndex": 11,
+        "name": "Onion Rings com Cheddar e Bacon",
+        "description": "Anéis de cebola empanada temperada com especiarias + cheddar e bacon, extra porção de maionese temperada.",
+        "priceText": "R$ 29,90",
+        "imageUrl": "https://cdn.vucasolution.com.br/upload/w_300/https://gryyplgyeyqb.compat.objectstorage.sa-saopaulo-1.oraclecloud.com/vuca-cdn/recobaburger/arqs/produtos/qewey7v3r4aav4nccekm.jpg",
+        "detailUrl": "https://www.vucafood.com.br/recobaburger/1487/cardapio-digital/56"
+      },
+      {
+        "id": "57",
+        "productIndex": 12,
+        "name": "Coxinha da Vó",
+        "description": "6 unidades da melhor coxinha com Catupiry que você vai comer na sua vida. Não tem melhor e não adianta teimar, quem fez foi a Vovó. Acompanha um molho á sua escolha.",
+        "priceText": "R$ 29,90",
+        "imageUrl": "https://cdn.vucasolution.com.br/upload/w_300/https://gryyplgyeyqb.compat.objectstorage.sa-saopaulo-1.oraclecloud.com/vuca-cdn/recobaburger/arqs/produtos/cwbarcucbhkonv2h12od.jpg",
+        "detailUrl": "https://www.vucafood.com.br/recobaburger/1487/cardapio-digital/57"
+      },
+      {
+        "id": "59",
+        "productIndex": 13,
+        "name": "Palito de Mussarela",
+        "description": "8 Unidades crocantes de queijo empanado, você pode escolher entre mussarela e provolone.",
+        "priceText": "R$ 26,90",
+        "imageUrl": "https://cdn.vucasolution.com.br/upload/w_300/https://gryyplgyeyqb.compat.objectstorage.sa-saopaulo-1.oraclecloud.com/vuca-cdn/recobaburger/arqs/produtos/y3qtaohu3vcvnfqfzs0g.jpg",
+        "detailUrl": "https://www.vucafood.com.br/recobaburger/1487/cardapio-digital/59"
+      }
+    ]
+  },
+  {
+    "name": "Molhos",
+    "categoryIndex": 5,
+    "products": [
+      {
+        "id": "60",
+        "productIndex": 0,
+        "name": "Baldinho da Alegria",
+        "description": "130gr de Cheddar extra cremoso e farofa de bacon, sem farofa. :)",
+        "priceText": "R$ 9,90",
+        "imageUrl": "https://cdn.vucasolution.com.br/upload/w_300/https://gryyplgyeyqb.compat.objectstorage.sa-saopaulo-1.oraclecloud.com/vuca-cdn/recobaburger/arqs/produtos/ho8zenpdsoikiqy40xq4.jpg",
+        "detailUrl": "https://www.vucafood.com.br/recobaburger/1487/cardapio-digital/60"
+      },
+      {
+        "id": "61",
+        "productIndex": 1,
+        "name": "Maionese Temperada Super 120Ml",
+        "description": "Uma Super quantidade de maionese artesanal a base de leite, com alho.",
+        "priceText": "R$ 10,90",
+        "imageUrl": "https://cdn.vucasolution.com.br/upload/w_300/https://gryyplgyeyqb.compat.objectstorage.sa-saopaulo-1.oraclecloud.com/vuca-cdn/recobaburger/arqs/produtos/e3ktdbns5iv6jl6lqke6.png",
+        "detailUrl": "https://www.vucafood.com.br/recobaburger/1487/cardapio-digital/61"
+      },
+      {
+        "id": "62",
+        "productIndex": 2,
+        "name": "Maionese Verde",
+        "description": "Maionese artesanal a base de leite, com ervas.",
+        "priceText": "R$ 4,00",
+        "imageUrl": "https://cdn.vucasolution.com.br/upload/w_300/https://gryyplgyeyqb.compat.objectstorage.sa-saopaulo-1.oraclecloud.com/vuca-cdn/recobaburger/arqs/produtos/xqc6zynpzlywoygheh6l.jpg",
+        "detailUrl": "https://www.vucafood.com.br/recobaburger/1487/cardapio-digital/62"
+      },
+      {
+        "id": "63",
+        "productIndex": 3,
+        "name": "Maionese Defumada Super 120Ml",
+        "description": "Uma Super quantidade de maionese defumada, gostinho de churrasco.",
+        "priceText": "R$ 10,90",
+        "imageUrl": "https://cdn.vucasolution.com.br/upload/w_300/https://gryyplgyeyqb.compat.objectstorage.sa-saopaulo-1.oraclecloud.com/vuca-cdn/recobaburger/arqs/produtos/octoauxecljnqcbxggk1.png",
+        "detailUrl": "https://www.vucafood.com.br/recobaburger/1487/cardapio-digital/63"
+      },
+      {
+        "id": "64",
+        "productIndex": 4,
+        "name": "Maionese Verde Super 120Ml",
+        "description": "Uma Super quantidade de maionese artesanal a base de leite, com ervas.",
+        "priceText": "R$ 10,90",
+        "imageUrl": "https://cdn.vucasolution.com.br/upload/w_300/https://gryyplgyeyqb.compat.objectstorage.sa-saopaulo-1.oraclecloud.com/vuca-cdn/recobaburger/arqs/produtos/bpve8gkgevmtudz9jhsf.png",
+        "detailUrl": "https://www.vucafood.com.br/recobaburger/1487/cardapio-digital/64"
+      },
+      {
+        "id": "65",
+        "productIndex": 5,
+        "name": "Maionese Defumada",
+        "description": "Maionese defumada, gostinho de churrasco!!!",
+        "priceText": "R$ 4,00",
+        "imageUrl": "https://cdn.vucasolution.com.br/upload/w_300/https://gryyplgyeyqb.compat.objectstorage.sa-saopaulo-1.oraclecloud.com/vuca-cdn/recobaburger/arqs/produtos/pnydyrg4bnhbssouexx6.png",
+        "detailUrl": "https://www.vucafood.com.br/recobaburger/1487/cardapio-digital/65"
+      },
+      {
+        "id": "66",
+        "productIndex": 6,
+        "name": "Molho Barbecue",
+        "description": "",
+        "priceText": "R$ 4,00",
+        "imageUrl": "https://cdn.vucasolution.com.br/upload/w_300/https://gryyplgyeyqb.compat.objectstorage.sa-saopaulo-1.oraclecloud.com/vuca-cdn/recobaburger/arqs/produtos/re7hnouriipurnhv3ohl.jpg",
+        "detailUrl": "https://www.vucafood.com.br/recobaburger/1487/cardapio-digital/66"
+      },
+      {
+        "id": "67",
+        "productIndex": 7,
+        "name": "Maionese Temperada",
+        "description": "Maionese artesanal a base de leite, com alho.",
+        "priceText": "R$ 4,00",
+        "imageUrl": "https://cdn.vucasolution.com.br/upload/w_300/https://gryyplgyeyqb.compat.objectstorage.sa-saopaulo-1.oraclecloud.com/vuca-cdn/recobaburger/arqs/produtos/ybydcr3eei8ou2lvn2fi.png",
+        "detailUrl": "https://www.vucafood.com.br/recobaburger/1487/cardapio-digital/67"
+      }
+    ]
+  },
+  {
+    "name": "Milk Shakes + Sobremesas.",
+    "categoryIndex": 6,
+    "products": [
+      {
+        "id": "436",
+        "productIndex": 0,
+        "name": "Brownie Belga - 90G",
+        "description": "",
+        "priceText": "R$ 11,90",
+        "imageUrl": "https://cdn.vucasolution.com.br/upload/w_300/https://gryyplgyeyqb.compat.objectstorage.sa-saopaulo-1.oraclecloud.com/vuca-cdn/recobaburger/arqs/produtos/nvzncgn5wivsh2bz2bsd.jpg",
+        "detailUrl": "https://www.vucafood.com.br/recobaburger/1487/cardapio-digital/436"
+      },
+      {
+        "id": "437",
+        "productIndex": 1,
+        "name": "Fatia Torta Cookie e Nutella - 120G",
+        "description": "",
+        "priceText": "R$ 17,00",
+        "imageUrl": "https://cdn.vucasolution.com.br/upload/w_300/https://gryyplgyeyqb.compat.objectstorage.sa-saopaulo-1.oraclecloud.com/vuca-cdn/recobaburger/arqs/produtos/mkxhbitzbiwqrxtdwbsb.jpg",
+        "detailUrl": "https://www.vucafood.com.br/recobaburger/1487/cardapio-digital/437"
+      },
+      {
+        "id": "68",
+        "productIndex": 2,
+        "name": "Floresta Negra Shake",
+        "description": "Milk Shake de Morango e Ovomaltine, com base americana 400ml.",
+        "priceText": "R$ 25,90",
+        "imageUrl": "https://cdn.vucasolution.com.br/upload/w_300/https://gryyplgyeyqb.compat.objectstorage.sa-saopaulo-1.oraclecloud.com/vuca-cdn/recobaburger/arqs/produtos/torihaejqnmgpteszqje.jpg",
+        "detailUrl": "https://www.vucafood.com.br/recobaburger/1487/cardapio-digital/68"
+      },
+      {
+        "id": "69",
+        "productIndex": 3,
+        "name": "Torta de Limao",
+        "description": "Torta de limão cremosa, finalizada com chantilly.",
+        "priceText": "R$ 13,90",
+        "imageUrl": "https://cdn.vucasolution.com.br/upload/w_300/https://gryyplgyeyqb.compat.objectstorage.sa-saopaulo-1.oraclecloud.com/vuca-cdn/recobaburger/arqs/produtos/vhosbn53npeerzxny9if.jpg",
+        "detailUrl": "https://www.vucafood.com.br/recobaburger/1487/cardapio-digital/69"
+      },
+      {
+        "id": "70",
+        "productIndex": 4,
+        "name": "Morango Shake",
+        "description": "Milk Shake de Morango, com base americana 400ml.",
+        "priceText": "R$ 24,90",
+        "imageUrl": "https://cdn.vucasolution.com.br/upload/w_300/https://gryyplgyeyqb.compat.objectstorage.sa-saopaulo-1.oraclecloud.com/vuca-cdn/recobaburger/arqs/produtos/q842clrwamo9bcjwlrvi.jpg",
+        "detailUrl": "https://www.vucafood.com.br/recobaburger/1487/cardapio-digital/70"
+      },
+      {
+        "id": "72",
+        "productIndex": 5,
+        "name": "Ninho Shake",
+        "description": "Milk Shake de Ninho em pó, com base americana 400ml.",
+        "priceText": "R$ 25,90",
+        "imageUrl": "https://cdn.vucasolution.com.br/upload/w_300/https://gryyplgyeyqb.compat.objectstorage.sa-saopaulo-1.oraclecloud.com/vuca-cdn/recobaburger/arqs/produtos/evg2hfnpzzaugzvmpxek.jpg",
+        "detailUrl": "https://www.vucafood.com.br/recobaburger/1487/cardapio-digital/72"
+      },
+      {
+        "id": "73",
+        "productIndex": 6,
+        "name": "Nutella Shake",
+        "description": "Milk Shake de Nutella, com base americana 400ml.",
+        "priceText": "R$ 26,90",
+        "imageUrl": "https://cdn.vucasolution.com.br/upload/w_300/https://gryyplgyeyqb.compat.objectstorage.sa-saopaulo-1.oraclecloud.com/vuca-cdn/recobaburger/arqs/produtos/iztmeemr0sqwrvn81ce1.jpg",
+        "detailUrl": "https://www.vucafood.com.br/recobaburger/1487/cardapio-digital/73"
+      },
+      {
+        "id": "74",
+        "productIndex": 7,
+        "name": "Oreo Shake",
+        "description": "Milk Shake de Oreo, com base americana 400ml.",
+        "priceText": "R$ 24,90",
+        "imageUrl": "https://cdn.vucasolution.com.br/upload/w_300/https://gryyplgyeyqb.compat.objectstorage.sa-saopaulo-1.oraclecloud.com/vuca-cdn/recobaburger/arqs/produtos/vygkxmkpc9qowytyg6a2.jpg",
+        "detailUrl": "https://www.vucafood.com.br/recobaburger/1487/cardapio-digital/74"
+      },
+      {
+        "id": "75",
+        "productIndex": 8,
+        "name": "Ovomaltine Shake",
+        "description": "Milk Shake de Ovomaltine, com base americana 400ml.",
+        "priceText": "R$ 24,90",
+        "imageUrl": "https://cdn.vucasolution.com.br/upload/w_300/https://gryyplgyeyqb.compat.objectstorage.sa-saopaulo-1.oraclecloud.com/vuca-cdn/recobaburger/arqs/produtos/tqugyfevadsftqj34eb4.jpg",
+        "detailUrl": "https://www.vucafood.com.br/recobaburger/1487/cardapio-digital/75"
+      },
+      {
+        "id": "76",
+        "productIndex": 9,
+        "name": "Iceburger Churros",
+        "description": "2 Bolachas de churros com gelato de vanilla e doce de leite.",
+        "priceText": "R$ 16,90",
+        "imageUrl": "https://cdn.vucasolution.com.br/upload/w_300/https://gryyplgyeyqb.compat.objectstorage.sa-saopaulo-1.oraclecloud.com/vuca-cdn/recobaburger/arqs/produtos/jrerc4doj4ljw8h09dil.jpg",
+        "detailUrl": "https://www.vucafood.com.br/recobaburger/1487/cardapio-digital/76"
+      },
+      {
+        "id": "77",
+        "productIndex": 10,
+        "name": "Pudim",
+        "description": "Pudim cremoso de leite condensado, lisinho e com cobertura de caramelo.",
+        "priceText": "R$ 13,90",
+        "imageUrl": "https://cdn.vucasolution.com.br/upload/w_300/https://gryyplgyeyqb.compat.objectstorage.sa-saopaulo-1.oraclecloud.com/vuca-cdn/recobaburger/arqs/produtos/jwihhef72zj8kygzmd2p.jpg",
+        "detailUrl": "https://www.vucafood.com.br/recobaburger/1487/cardapio-digital/77"
+      },
+      {
+        "id": "78",
+        "productIndex": 11,
+        "name": "Iceburger Frutas Vermelhas",
+        "description": "2 Bolachas de leite condensado com gelato de vanilla e calda de frutas vermelhas.",
+        "priceText": "R$ 16,90",
+        "imageUrl": "https://cdn.vucasolution.com.br/upload/w_300/https://gryyplgyeyqb.compat.objectstorage.sa-saopaulo-1.oraclecloud.com/vuca-cdn/recobaburger/arqs/produtos/txiekzvqgj9b1ziuab9g.jpg",
+        "detailUrl": "https://www.vucafood.com.br/recobaburger/1487/cardapio-digital/78"
+      },
+      {
+        "id": "79",
+        "productIndex": 12,
+        "name": "Iceburger Torta Holandesa",
+        "description": "2 Bolachas cobertas com chocolate, gelato de leite e calda de chocolate.",
+        "priceText": "R$ 16,90",
+        "imageUrl": "https://cdn.vucasolution.com.br/upload/w_300/https://gryyplgyeyqb.compat.objectstorage.sa-saopaulo-1.oraclecloud.com/vuca-cdn/recobaburger/arqs/produtos/fmgmu7bymqvcykctls0i.jpg",
+        "detailUrl": "https://www.vucafood.com.br/recobaburger/1487/cardapio-digital/79"
+      }
+    ]
+  },
+  {
+    "name": "Bebidas.",
+    "categoryIndex": 7,
+    "products": [
+      {
+        "id": "135",
+        "productIndex": 0,
+        "name": "Refrescoba - Sabores",
+        "description": "SODA ITALIANA SABORIZADA.",
+        "priceText": "R$ 12,90",
+        "imageUrl": "https://cdn.vucasolution.com.br/upload/w_300/https://gryyplgyeyqb.compat.objectstorage.sa-saopaulo-1.oraclecloud.com/vuca-cdn/recobaburger/arqs/produtos/o0fehvoxynie48doyhnk.jpg",
+        "detailUrl": "https://www.vucafood.com.br/recobaburger/1487/cardapio-digital/135"
+      },
+      {
+        "id": "80",
+        "productIndex": 1,
+        "name": "Água com Gás",
+        "description": "500ml",
+        "priceText": "R$ 6,00",
+        "imageUrl": "https://cdn.vucasolution.com.br/upload/w_300/https://gryyplgyeyqb.compat.objectstorage.sa-saopaulo-1.oraclecloud.com/vuca-cdn/recobaburger/arqs/produtos/q3wzcnyh66i46ygsythw.png",
+        "detailUrl": "https://www.vucafood.com.br/recobaburger/1487/cardapio-digital/80"
+      },
+      {
+        "id": "81",
+        "productIndex": 2,
+        "name": "Água Natural",
+        "description": "500ml",
+        "priceText": "R$ 5,00",
+        "imageUrl": "https://cdn.vucasolution.com.br/upload/w_300/https://gryyplgyeyqb.compat.objectstorage.sa-saopaulo-1.oraclecloud.com/vuca-cdn/recobaburger/arqs/produtos/l8ytxesqbksxwa37nlwp.png",
+        "detailUrl": "https://www.vucafood.com.br/recobaburger/1487/cardapio-digital/81"
+      },
+      {
+        "id": "83",
+        "productIndex": 3,
+        "name": "Coca Cola Lata",
+        "description": "350ml",
+        "priceText": "R$ 8,90",
+        "imageUrl": "https://cdn.vucasolution.com.br/upload/w_300/https://gryyplgyeyqb.compat.objectstorage.sa-saopaulo-1.oraclecloud.com/vuca-cdn/recobaburger/arqs/produtos/xsdmptkryylg8stwnsjb.png",
+        "detailUrl": "https://www.vucafood.com.br/recobaburger/1487/cardapio-digital/83"
+      },
+      {
+        "id": "84",
+        "productIndex": 4,
+        "name": "Coca Cola Zero Lata",
+        "description": "",
+        "priceText": "R$ 8,00",
+        "imageUrl": "https://cdn.vucasolution.com.br/upload/w_300/https://gryyplgyeyqb.compat.objectstorage.sa-saopaulo-1.oraclecloud.com/vuca-cdn/recobaburger/arqs/produtos/sj6edp1k9jnafarvrb0t.png",
+        "detailUrl": "https://www.vucafood.com.br/recobaburger/1487/cardapio-digital/84"
+      },
+      {
+        "id": "85",
+        "productIndex": 5,
+        "name": "Fanta Laranja",
+        "description": "350ml",
+        "priceText": "R$ 8,00",
+        "imageUrl": "https://cdn.vucasolution.com.br/upload/w_300/https://gryyplgyeyqb.compat.objectstorage.sa-saopaulo-1.oraclecloud.com/vuca-cdn/recobaburger/arqs/produtos/vhmz1kfsifzf0rchbblg.png",
+        "detailUrl": "https://www.vucafood.com.br/recobaburger/1487/cardapio-digital/85"
+      },
+      {
+        "id": "86",
+        "productIndex": 6,
+        "name": "Fanta Uva",
+        "description": "",
+        "priceText": "R$ 8,00",
+        "imageUrl": "https://cdn.vucasolution.com.br/upload/w_300/https://gryyplgyeyqb.compat.objectstorage.sa-saopaulo-1.oraclecloud.com/vuca-cdn/recobaburger/arqs/produtos/ancfjq7uamz7gzuveh1o.png",
+        "detailUrl": "https://www.vucafood.com.br/recobaburger/1487/cardapio-digital/86"
+      },
+      {
+        "id": "89",
+        "productIndex": 7,
+        "name": "Guaraná Antarctica Lata",
+        "description": "350 ml",
+        "priceText": "R$ 8,00",
+        "imageUrl": "https://cdn.vucasolution.com.br/upload/w_300/https://gryyplgyeyqb.compat.objectstorage.sa-saopaulo-1.oraclecloud.com/vuca-cdn/recobaburger/arqs/produtos/x34bdhywkf0a1jofrhlw.png",
+        "detailUrl": "https://www.vucafood.com.br/recobaburger/1487/cardapio-digital/89"
+      },
+      {
+        "id": "90",
+        "productIndex": 8,
+        "name": "H2Oh Limão",
+        "description": "500 ml",
+        "priceText": "R$ 9,50",
+        "imageUrl": "https://cdn.vucasolution.com.br/upload/w_300/https://gryyplgyeyqb.compat.objectstorage.sa-saopaulo-1.oraclecloud.com/vuca-cdn/recobaburger/arqs/produtos/flefpjhyrt0som0vouwz.png",
+        "detailUrl": "https://www.vucafood.com.br/recobaburger/1487/cardapio-digital/90"
+      },
+      {
+        "id": "91",
+        "productIndex": 9,
+        "name": "H2Oh Limoneto",
+        "description": "500 ml",
+        "priceText": "R$ 12,50",
+        "imageUrl": "https://cdn.vucasolution.com.br/upload/w_300/https://gryyplgyeyqb.compat.objectstorage.sa-saopaulo-1.oraclecloud.com/vuca-cdn/recobaburger/arqs/produtos/dv8todrueucjndsdqsb9.png",
+        "detailUrl": "https://www.vucafood.com.br/recobaburger/1487/cardapio-digital/91"
+      },
+      {
+        "id": "92",
+        "productIndex": 10,
+        "name": "Soda Antarctica Lata",
+        "description": "350ml",
+        "priceText": "R$ 8,00",
+        "imageUrl": "https://cdn.vucasolution.com.br/upload/w_300/https://gryyplgyeyqb.compat.objectstorage.sa-saopaulo-1.oraclecloud.com/vuca-cdn/recobaburger/arqs/produtos/ijapmlegisl9beynpapy.jpg",
+        "detailUrl": "https://www.vucafood.com.br/recobaburger/1487/cardapio-digital/92"
+      },
+      {
+        "id": "94",
+        "productIndex": 11,
+        "name": "Suco Del Valle Maracuja",
+        "description": "Suco lata 290ml.",
+        "priceText": "R$ 6,90",
+        "imageUrl": "https://cdn.vucasolution.com.br/upload/w_300/https://gryyplgyeyqb.compat.objectstorage.sa-saopaulo-1.oraclecloud.com/vuca-cdn/recobaburger/arqs/produtos/mnve356c6ociru39udty.jpg",
+        "detailUrl": "https://www.vucafood.com.br/recobaburger/1487/cardapio-digital/94"
+      },
+      {
+        "id": "95",
+        "productIndex": 12,
+        "name": "Suco Del Valle Uva",
+        "description": "Suco lata 290ml.",
+        "priceText": "R$ 7,50",
+        "imageUrl": "https://cdn.vucasolution.com.br/upload/w_300/https://gryyplgyeyqb.compat.objectstorage.sa-saopaulo-1.oraclecloud.com/vuca-cdn/recobaburger/arqs/produtos/ht95k9bwrqouwfg7jyhr.jpg",
+        "detailUrl": "https://www.vucafood.com.br/recobaburger/1487/cardapio-digital/95"
+      }
+    ]
+  },
+  {
+    "name": "Cervejas",
+    "categoryIndex": 8,
+    "products": [
+      {
+        "id": "96",
+        "productIndex": 0,
+        "name": "Budweiser",
+        "description": "Long Neck 330ml",
+        "priceText": "R$ 9,90",
+        "imageUrl": "https://cdn.vucasolution.com.br/upload/w_300/https://gryyplgyeyqb.compat.objectstorage.sa-saopaulo-1.oraclecloud.com/vuca-cdn/recobaburger/arqs/produtos/dvy9cbqjt6fpmdikcvo7.jpg",
+        "detailUrl": "https://www.vucafood.com.br/recobaburger/1487/cardapio-digital/96"
+      },
+      {
+        "id": "98",
+        "productIndex": 1,
+        "name": "Heineken",
+        "description": "Long Neck 330ml",
+        "priceText": "R$ 9,90",
+        "imageUrl": "https://cdn.vucasolution.com.br/upload/w_300/https://gryyplgyeyqb.compat.objectstorage.sa-saopaulo-1.oraclecloud.com/vuca-cdn/recobaburger/arqs/produtos/veja8pvujktj1dfcldc0.jpg",
+        "detailUrl": "https://www.vucafood.com.br/recobaburger/1487/cardapio-digital/98"
+      }
+    ]
+  },
+  {
+    "name": "Burger + Batata + Coca",
+    "categoryIndex": 9,
+    "products": [
+      {
+        "id": "353",
+        "productIndex": 0,
+        "name": "3 Em 1 Recoba: Smashão Burger + Batata Frita + 01 Pepsi Cola Lata 350Ml",
+        "description": "3 em 1 Recoba: Smashão Burger + Batata Frita + 01 Pepsi Cola Lata 350ml",
+        "priceText": "R$ 41,90",
+        "imageUrl": "https://cdn.vucasolution.com.br/upload/w_300/https://gryyplgyeyqb.compat.objectstorage.sa-saopaulo-1.oraclecloud.com/vuca-cdn/recobaburger/arqs/produtos/tvfmlibon4pjttivtgaq.jpg",
+        "detailUrl": "https://www.vucafood.com.br/recobaburger/1487/cardapio-digital/353"
+      },
+      {
+        "id": "5",
+        "productIndex": 1,
+        "name": "2 Burgers 1 Entrada",
+        "description": "Escolha 2 burgers e 1 Entrada.",
+        "priceText": "A partir de: R$ 88,30",
+        "imageUrl": "https://cdn.vucasolution.com.br/upload/w_300/https://gryyplgyeyqb.compat.objectstorage.sa-saopaulo-1.oraclecloud.com/vuca-cdn/recobaburger/arqs/produtos/qpagkbnxli1cn58pcryn.jpg",
+        "detailUrl": "https://www.vucafood.com.br/recobaburger/1487/cardapio-digital/5"
+      },
+      {
+        "id": "352",
+        "productIndex": 2,
+        "name": "3 Em 1 Recoba: Macau Buger + Batata Frita + Pepsi Cola Lata 350Ml",
+        "description": "3 em 1 Recoba: Macau Buger + Batata Frita + Pepsi Cola Lata 350ml",
+        "priceText": "R$ 56,80",
+        "imageUrl": "https://cdn.vucasolution.com.br/upload/w_300/https://gryyplgyeyqb.compat.objectstorage.sa-saopaulo-1.oraclecloud.com/vuca-cdn/recobaburger/arqs/produtos/gcfordvewudsz9xomjak.jpg",
+        "detailUrl": "https://www.vucafood.com.br/recobaburger/1487/cardapio-digital/352"
+      },
+      {
+        "id": "351",
+        "productIndex": 3,
+        "name": "3 Em 1 Recoba: Denver Burger + Batata Frita + Pepsi Cola Lata 350Ml",
+        "description": "3 em 1 Recoba: Denver Burger + Batata Frita + Pepsi Cola Lata 350ml",
+        "priceText": "R$ 40,90",
+        "imageUrl": "https://cdn.vucasolution.com.br/upload/w_300/https://gryyplgyeyqb.compat.objectstorage.sa-saopaulo-1.oraclecloud.com/vuca-cdn/recobaburger/arqs/produtos/ttys6ql1v1d2rfxsjj2y.jpg",
+        "detailUrl": "https://www.vucafood.com.br/recobaburger/1487/cardapio-digital/351"
+      },
+      {
+        "id": "350",
+        "productIndex": 4,
+        "name": "3 Em 1 Recoba: Cartagena Burger + Batata Frita + Pepsi Cola Lata 350Ml",
+        "description": "3 em 1 Recoba: Cartagena Burger + Batata Frita + Pepsi Cola Lata 350ml",
+        "priceText": "R$ 70,80",
+        "imageUrl": "https://cdn.vucasolution.com.br/upload/w_300/https://gryyplgyeyqb.compat.objectstorage.sa-saopaulo-1.oraclecloud.com/vuca-cdn/recobaburger/arqs/produtos/v7wwulgkdq0pswtwec9b.jpg",
+        "detailUrl": "https://www.vucafood.com.br/recobaburger/1487/cardapio-digital/350"
+      },
+      {
+        "id": "355",
+        "productIndex": 5,
+        "name": "3 Em 1 Recoba: Havana Burger + Batata Frita + Pepsi Cola Lata 350Ml",
+        "description": "3 em 1 Recoba: Havana Burger + Batata Frita + Pepsi Cola Lata 350ml",
+        "priceText": "R$ 75,40",
+        "imageUrl": "https://cdn.vucasolution.com.br/upload/w_300/https://gryyplgyeyqb.compat.objectstorage.sa-saopaulo-1.oraclecloud.com/vuca-cdn/recobaburger/arqs/produtos/zjjshjhdwaebhfwxzrqj.jpg",
+        "detailUrl": "https://www.vucafood.com.br/recobaburger/1487/cardapio-digital/355"
+      }
+    ]
+  }
+]
