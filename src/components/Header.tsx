@@ -1,16 +1,15 @@
 import { MapPin, ShoppingBag } from "lucide-react";
 import type { DeliveryAddress } from "../types";
-import type { StoreClock } from "../lib/hours";
 
 type Props = {
   address: DeliveryAddress | null;
-  clock: StoreClock;
   cartCount: number;
+  cartAnimating: boolean;
   onAddressClick: () => void;
   onCartClick: () => void;
 };
 
-export function Header({ address, clock, cartCount, onAddressClick, onCartClick }: Props) {
+export function Header({ address, cartCount, cartAnimating, onAddressClick, onCartClick }: Props) {
   return (
     <header className="site-header">
       <div className="header-inner">
@@ -25,10 +24,10 @@ export function Header({ address, clock, cartCount, onAddressClick, onCartClick 
             <strong>{address ? address.normalizedAddress : "Informar endereço"}</strong>
           </span>
         </button>
-        <div className={`header-status ${clock.open ? "open" : "closed"}`}>
-          <i /> {clock.label}
+        <div className="header-status open">
+          <i /> Aberto para pedidos
         </div>
-        <button className="cart-button" type="button" onClick={onCartClick} aria-label={`Abrir sacola com ${cartCount} itens`}>
+        <button className={`cart-button ${cartAnimating ? "cart-bump" : ""}`} type="button" onClick={onCartClick} aria-label={`Abrir sacola com ${cartCount} itens`}>
           <ShoppingBag size={21} />
           <span>Sacola</span>
           {cartCount > 0 && <b>{cartCount}</b>}

@@ -1,6 +1,7 @@
 import { useEffect, useMemo, useState } from "react";
 import { Check, ChevronLeft, Minus, Plus, ShoppingBag, X } from "lucide-react";
 import { formatCurrency } from "../lib/store";
+import { getCompareAtPrice } from "../lib/promotions";
 import type { CartItem, MenuProduct, SelectedOption } from "../types";
 
 type Props = {
@@ -34,6 +35,8 @@ export function ProductModal({ product, onClose, onAdd }: Props) {
   if (!product) return null;
 
   const unitTotal = product.price + selectedOptions.reduce((sum, option) => sum + option.price, 0);
+  const compareAtPrice = getCompareAtPrice(product.id);
+  const baseSavings = Math.max(0, (compareAtPrice || 0) - product.price);
   const valid = product.groups.every((group) => (selected[group.id]?.length || 0) >= group.minimum);
   const unavailable = product.price === 0 && product.groups.length === 0;
 
@@ -59,6 +62,7 @@ export function ProductModal({ product, onClose, onAdd }: Props) {
       name: product.name,
       image: product.image,
       basePrice: product.price,
+      compareAtPrice,
       quantity,
       options: selectedOptions,
       note: note.trim(),
@@ -79,7 +83,11 @@ export function ProductModal({ product, onClose, onAdd }: Props) {
             <span className="eyebrow">Recoba Burger</span>
             <h2 id="product-title">{product.name}</h2>
             {product.description && <p>{product.description}</p>}
-            <strong className="product-base-price">{product.price > 0 ? formatCurrency(product.price) : "Item de composição"}</strong>
+            <div className="product-price-block">
+              {baseSavings > 0 ? <del>{formatCurrency(compareAtPrice)}</del> : null}
+              <strong className="product-base-price">{product.price > 0 ? formatCurrency(product.price) : "Item de composição"}</strong>
+              {baseSavings > 0 ? <span>Você economiza {formatCurrency(baseSavings)}</span> : null}
+            </div>
           </div>
 
           {product.groups.map((group) => {

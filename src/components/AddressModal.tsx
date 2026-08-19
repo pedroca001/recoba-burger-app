@@ -95,8 +95,8 @@ export function AddressModal({ open, onClose, onResolved }: Props) {
         {error && <div className="inline-alert error"><XCircle size={18} /><span>{error}</span></div>}
 
         {result && (
-          <div className={`address-result ${result.eligible ? "success" : "outside"}`}>
-            {result.eligible ? <CheckCircle2 size={24} /> : <XCircle size={24} />}
+          <div className={`address-result ${result.eligible ? "success" : "outside"}`} key={`${result.normalizedAddress}-${result.eligible}`} role="status" aria-live="polite">
+            <span className="result-icon">{result.eligible ? <CheckCircle2 size={26} /> : <XCircle size={26} />}</span>
             <div>
               <strong>{result.eligible ? "Boa, entregamos aí!" : "Esse endereço está fora da área"}</strong>
               <span>{result.normalizedAddress}</span>

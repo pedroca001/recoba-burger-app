@@ -10,8 +10,9 @@ Cardapio digital e checkout da Recoba Burger Santana, desenvolvido em React, Typ
 - catalogo com 10 categorias, 91 produtos, adicionais e 89 fotos armazenadas no proprio app;
 - onboarding por CEP, endereco ou geolocalizacao;
 - entrega gratis em um raio de ate 3 km da Rua Pedro Doll, 259;
-- pedido minimo de R$ 35,00 e pedidos somente entre 17h e 23h, no fuso de Sao Paulo;
-- carrinho, personalizacoes e checkout responsivo;
+- pedido minimo de R$ 35,00 e loja temporariamente sempre aberta para testes;
+- experiencia mobile-first, carrosseis promocionais e economia calculada na sacola;
+- carrinho, personalizacoes e cadastro rapido antes do checkout;
 - Pix e cartao pela Core API v5 da Pagar.me/Stone;
 - persistencia de pedidos com Netlify Blobs e atualizacao por webhook;
 - eventos opcionais para Meta Pixel e preservacao de UTMs e click IDs.

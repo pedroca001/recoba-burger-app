@@ -36,15 +36,7 @@ export const haversineKm = (latitude: number, longitude: number) => {
   return earthRadius * 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1 - a));
 };
 
-export const isStoreOpen = (date = new Date()) => {
-  const parts = new Intl.DateTimeFormat("en-US", {
-    timeZone: SERVER_STORE.timezone,
-    hour: "2-digit",
-    hourCycle: "h23",
-  }).formatToParts(date);
-  const hour = Number(parts.find((part) => part.type === "hour")?.value ?? 0);
-  return hour >= SERVER_STORE.opensAt && hour < SERVER_STORE.closesAt;
-};
+export const isStoreOpen = () => true;
 
 type GeocodeInput = { query?: string; latitude?: number; longitude?: number };
 

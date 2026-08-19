@@ -1,15 +1,13 @@
 import { Minus, Plus, ShoppingBag, Trash2, X } from "lucide-react";
 import { formatCurrency } from "../lib/store";
-import { itemTotal } from "../lib/cart";
+import { cartSavings, itemSavings, itemTotal } from "../lib/cart";
 import type { CartItem, DeliveryAddress } from "../types";
-import type { StoreClock } from "../lib/hours";
 
 type Props = {
   open: boolean;
   items: CartItem[];
   total: number;
   minimum: number;
-  clock: StoreClock;
   address: DeliveryAddress | null;
   onClose: () => void;
   onQuantity: (lineId: string, quantity: number) => void;
@@ -18,14 +16,13 @@ type Props = {
   onAddress: () => void;
 };
 
-export function CartDrawer({ open, items, total, minimum, clock, address, onClose, onQuantity, onRemove, onCheckout, onAddress }: Props) {
+export function CartDrawer({ open, items, total, minimum, address, onClose, onQuantity, onRemove, onCheckout, onAddress }: Props) {
   if (!open) return null;
   const missing = Math.max(0, minimum - total);
-  const checkoutBlocked = items.length === 0 || missing > 0 || !clock.open || !address?.eligible;
+  const savings = cartSavings(items);
+  const checkoutBlocked = items.length === 0 || missing > 0 || !address?.eligible;
 
-  const blockMessage = !clock.open
-    ? "Pedidos disponíveis todos os dias das 17h às 23h"
-    : !address?.eligible
+  const blockMessage = !address?.eligible
       ? "Confirme um endereço dentro da área de entrega"
       : missing > 0
         ? `Faltam ${formatCurrency(missing)} para o pedido mínimo`
@@ -46,6 +43,7 @@ export function CartDrawer({ open, items, total, minimum, clock, address, onClos
               <div className="cart-line-copy">
                 <div><h3>{item.name}</h3><strong>{formatCurrency(itemTotal(item))}</strong></div>
                 {item.options.length > 0 && <p>{item.options.map((option) => option.name).join(", ")}</p>}
+                {itemSavings(item) > 0 && <span className="line-savings">Você economizou {formatCurrency(itemSavings(item))}</span>}
                 {item.note && <small>Obs.: {item.note}</small>}
                 <div className="cart-line-actions">
                   <div className="quantity-control small">
@@ -64,6 +62,7 @@ export function CartDrawer({ open, items, total, minimum, clock, address, onClos
           <div className="cart-summary">
             <div><span>Subtotal</span><strong>{formatCurrency(total)}</strong></div>
             <div><span>Entrega</span><strong className="free">Grátis</strong></div>
+            {savings > 0 && <div className="savings-row"><span>Você economizou</span><strong>{formatCurrency(savings)}</strong></div>}
             <div className="cart-total"><span>Total</span><strong>{formatCurrency(total)}</strong></div>
             {missing > 0 && <div className="minimum-progress"><div><i style={{ width: `${Math.min(100, (total / minimum) * 100)}%` }} /></div><span>{blockMessage}</span></div>}
             {checkoutBlocked && missing === 0 && <p className="checkout-block-message">{blockMessage}</p>}

@@ -1,6 +1,6 @@
 import { getStore } from "@netlify/blobs";
 import type { CartItem, CustomerForm, DeliveryAddress } from "../../src/types";
-import { isStoreOpen, json, parseBody, resolveAddress, SERVER_STORE, validateCart, validateCustomer } from "./_shared";
+import { json, parseBody, resolveAddress, SERVER_STORE, validateCart, validateCustomer } from "./_shared";
 
 type Payload = {
   items: CartItem[];
@@ -31,7 +31,6 @@ export default async (request: Request) => {
   let localOrderId = "";
   const orders = getStore({ name: "recoba-orders", consistency: "strong" });
   try {
-    if (!isStoreOpen()) throw new Error("A cozinha está fechada. Os pedidos funcionam todos os dias, das 17h às 23h.");
     const payload = await parseBody<Payload>(request);
     const customer = validateCustomer(payload.customer);
     const { lines, total } = validateCart(payload.items);

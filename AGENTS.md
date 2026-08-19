@@ -18,9 +18,10 @@
 
 - Nunca enviar dados abertos de cartao ao backend. O navegador tokeniza direto na infraestrutura Pagar.me/Stone e o backend recebe somente `card_token`.
 - Segredos ficam exclusivamente em variaveis de ambiente da Netlify. Nao commitar `.env` nem registrar valores em docs.
-- O backend recalcula catalogo, adicionais, pedido minimo, horario e raio de entrega. Nao confiar em totais enviados pelo navegador.
-- Horario operacional: todos os dias, 17:00 as 23:00, fuso `America/Sao_Paulo`.
+- O backend recalcula catalogo, adicionais, pedido minimo e raio de entrega. Nao confiar em totais enviados pelo navegador.
+- Durante a fase de testes, a loja permanece sempre aberta e nao ha bloqueio por horario no frontend ou backend.
 - Pedido minimo: R$ 35,00. Entrega gratis. Raio maximo: 3 km da Rua Pedro Doll, 259.
+- A interface e mobile-first. As categorias promocionais usam carrossel horizontal e a sacola exibe a economia apenas para combos com preco avulso auditado.
 - Preservar fotos importadas localmente. Nao trocar por hotlinks sem decisao explicita.
 
 ## Work Guidance
@@ -36,7 +37,7 @@
 - `npm run build`
 - `npm run test`
 - `npm run menu:verify`
-- Validacao manual responsiva do onboarding, personalizacao, carrinho, checkout e bloqueios.
+- Validacao manual em 320, 390 e 430 px do onboarding, personalizacao, carrinho e checkout.
 
 ## Child DOX Index
 

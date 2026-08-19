@@ -44,6 +44,7 @@ export type CartItem = {
   name: string;
   image: string | null;
   basePrice: number;
+  compareAtPrice?: number;
   quantity: number;
   options: SelectedOption[];
   note: string;
